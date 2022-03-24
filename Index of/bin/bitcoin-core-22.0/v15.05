@@ -1,0 +1,20 @@
+Index of /bin/bitcoin-core-22.0/
+
+../
+test.rc2/                                          04-Aug-2021 14:42                   -
+test.rc3/                                          30-Aug-2021 09:06                   -
+SHA256SUMS                                         13-Sep-2021 12:12                2353
+SHA256SUMS.asc                                     13-Sep-2021 12:12                9870
+SHA256SUMS.ots                                     13-Sep-2021 12:12                 468
+bitcoin-22.0-aarch64-linux-gnu.tar.gz              13-Sep-2021 12:13            34076499
+bitcoin-22.0-arm-linux-gnueabihf.tar.gz            13-Sep-2021 12:13            30231683
+bitcoin-22.0-osx-signed.dmg                        13-Sep-2021 12:13            14643657
+bitcoin-22.0-osx64.tar.gz                          13-Sep-2021 12:13            27738531
+bitcoin-22.0-powerpc64-linux-gnu.tar.gz            13-Sep-2021 12:14            39812683
+bitcoin-22.0-powerpc64le-linux-gnu.tar.gz          13-Sep-2021 12:14            38677732
+bitcoin-22.0-riscv64-linux-gnu.tar.gz              13-Sep-2021 12:14            33923203
+bitcoin-22.0-win64-setup.exe                       13-Sep-2021 12:15            18575512
+bitcoin-22.0-win64.zip                             13-Sep-2021 12:15            34072666
+bitcoin-22.0-x86_64-linux-gnu.tar.gz               13-Sep-2021 12:15            35769753
+bitcoin-22.0.tar.gz                                13-Sep-2021 12:15             7972234
+bitcoin-22.0.torrent                               13-Sep-2021 12:15   
