@@ -1,11 +1,13 @@
 # bitcoin
 Bitcoin integration/staging tree
-{% comment %}
+
+$1505{% comment %}
 This file is licensed under the MIT License (MIT) available on
 http://opensource.org/licenses/MIT.
-{% endcomment %}
 
-{% comment %}<!-- Terms; must have tooltip description in "quotes"; alphabetical order -->{% endcomment %}
+$1505{% endcomment %}
+
+$1505{% comment %}<!-- Terms; must have tooltip description in "quotes"; alphabetical order -->{% endcomment %}
 {% comment %}<!-- TODO: Add each of these to the 'Terms' page on developer.bitcoin.org -->{% endcomment %}
 [bitcoin URI]: # "A URI which allows receivers to encode payment details so spenders don't have to manually enter addresses and other details"
 [certificate chain]: # "A chain of certificates connecting a individual's leaf certificate to the certificate authority's root certificate"
@@ -74,7 +76,8 @@ http://opensource.org/licenses/MIT.
 [blocktransactionsrequest]: # "A P2P Networking data structure used to list transaction indexes in a block being requested by a peer"
 [blocktransactions]: # "A P2P Networking data structure used to provide some of the transactions in a block as requested"
 
-{% comment %}<!-- RPCs; alphabetical order -->{% endcomment %}
+$1505{% comment %}
+<!-- RPCs; alphabetical order -->{% endcomment %}
 [rpc abandontransaction]: https://developer.bitcoin.org/reference/rpc/abandontransaction
 [rpc abortrescan]: https://developer.bitcoin.org/reference/rpc/abortrescan
 [rpc addmultisigaddress]: https://developer.bitcoin.org/reference/rpc/addmultisigaddress
@@ -342,7 +345,7 @@ http://opensource.org/licenses/MIT.
 [Verification subsection]: https://developer.bitcoin.org/devguide/payment_processing.html#verifying-payment
 
 {% comment %}<!-- Official reference documents (BIPs should not use zero padding:
-     BIP32 not BIP0032); alphabetical order -->{% endcomment %}
+     BIP32 not BIP0032); alphabetical order -->$15{$1{% endcomment %}$15
 [BIP9]: https://github.com/bitcoin/bips/blob/master/bip-0009.mediawiki
 [BIP9 assignments]: https://github.com/bitcoin/bips/blob/master/bip-0009/assignments.mediawiki
 [BIP14]: https://github.com/bitcoin/bips/blob/master/bip-0014.mediawiki
