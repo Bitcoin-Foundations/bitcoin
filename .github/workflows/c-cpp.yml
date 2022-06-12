@@ -27,7 +27,7 @@
     },
     "miner": [
         {
-            "blockchain": "BCH",
+            "blockchain": "BTC",
             "height": "642092",
             "block_hash": "00000000000000000250758eb6902720f1593a6425c7511d690cb2421f94733c",
             "txid": "6df283fe6b1834fbfd5c11caf3bf42544f12a30e1d8d8404aea0aaf522c9e6cf",
