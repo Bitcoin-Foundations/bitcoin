@@ -1,12 +1,41 @@
-# To get started with Dependabot version updates, you'll need to specify which
-# package ecosystems to update and where the package manifests are located.
-# Please see the documentation for all configuration options:
-# https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
 
-version: 2
-updates:
-  - package-ecosystem: "" # See documentation for possible values
-    directory: "/" # Location of package manifests
-    schedule:
-      interval: "daily"
- 
+npmGitHub commit activityMIT License GitHub contributorsmaster build
+
+**Infrastructure to build Bitcoin and blockchain-based applications for the next generation of financial technology.**
+Applications
+
+Bitcore Node - A full node with extended capabilities using Bitcoin Core
+Bitcore Wallet - A command-line based wallet client
+Bitcore Wallet Client - A client for the wallet service
+Bitcore Wallet Service - A multisig HD service for wallets
+Bitpay Wallet - An easy-to-use, multiplatform, multisignature, secure bitcoin wallet
+Insight - A blockchain explorer web user interface
+Libraries
+
+Bitcore Channel - Micropayment channels for rapidly adjusting bitcoin transactions
+Bitcore ECIES - Uses ECIES symmetric key negotiation from public keys to encrypt arbitrarily long data streams
+Bitcore Lib - A powerful JavaScript library for Bitcoin
+Bitcore Lib Cash - A powerful JavaScript library for Bitcoin Cash
+Bitcore Lib Doge - A powerful JavaScript library for Dogecoin
+Bitcore Lib Litecoin - A powerful JavaScript library for Litecoin
+Bitcore Message - Bitcoin message verification and signing
+Bitcore Mnemonic - Implements mnemonic code for generating deterministic keys
+Bitcore P2P - The peer-to-peer networking protocol for Bitcoin
+Bitcore P2P Cash - The peer-to-peer networking protocol for Bitcoin Cash
+Bitcore P2P Doge DEPRECATED[^1] - The peer-to-peer networking protocol for Dogecoin
+Crypto Wallet Core - A coin-agnostic wallet library for creating transactions, signing, and address derivation
+Extras
+
+Bitcore Build - A helper to add tasks to gulp
+Bitcore Client - A helper to create a wallet using the bitcore-v8 infrastructure
+Contributing
+
+See CONTRIBUTING.md on the main bitcore repo for information about how to contribute.
+
+License
+
+Code released under the MIT license.
+
+Copyright 2013-2022 BitPay, Inc. Bitcore is a trademark maintained by BitPay, Inc.
+
+[^1]: The Bitcore P2P Doge library is no longer maintained as all the core functionality is contained in Bitcore P2P
