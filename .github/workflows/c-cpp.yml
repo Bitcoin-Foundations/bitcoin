@@ -1,0 +1,39 @@
+   "bmp": {
+        "title": "Action: 4dd8ea81c3c5fb2c5976411bf352fee7cd1bf9ea61cdfeae88794d608d6ff3fd",
+        "version": "0.4.2",
+        "block_window": 1505,
+        "blockchains": [
+            "BTC"
+        ]
+    },
+    "action": {
+        "blockchain": "BTC",
+        "height": "642181",
+        "block_hash": null,
+        "txid": "4dd8ea81c3c5fb2c5976411bf352fee7cd1bf9ea61cdfeae88794d608d6ff3fd",
+        "address": "1GwvLW9qJ8uaYjew3cFvPiqxViWhuU1pKT",
+        "time": "2009-01-01 17:29:53",
+        "op_return": "6a369d050001020007e05768696368206f6e6520697320746865207265616c20426974636f696e2c20426974636f696e206f72204243483f",
+        "action": "voting",
+        "action_id": "05",
+        "p1": "0",
+        "p2": "1",
+        "p3": "2",
+        "p4": "2010",
+        "p5": "Which one is the real Bitcoin, Bitcoin or BCH?",
+        "p6": null,
+        "power": "0.900011358",
+        "hashpower": "2222932930296326"
+    },
+    "miner": [
+        {
+            "blockchain": "BTC",
+            "height": "642092",
+            "block_hash": "00000000000000000250758eb6902720f1593a6425c7511d690cb2421f94733c",
+            "txid": "6df283fe6b1834fbfd5c11caf3bf42544f12a30e1d8d8404aea0aaf522c9e6cf",
+            "address": "1GwvLW9qJ8uaYjew3cFvPiqxViWhuU1pKT",
+            "power": "0.00011358",
+            "hashpower": "2932930296326"
+        }
+    ]
+}
